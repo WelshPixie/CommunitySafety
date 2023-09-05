@@ -1,0 +1,112 @@
+Delivered-To: pseudonymph1@gmail.com
+Received: by 2002:a02:a303:0:b0:431:3ea5:7203 with SMTP id q3csp135520jai;
+        Sat, 2 Sep 2023 05:33:52 -0700 (PDT)
+X-Google-Smtp-Source: AGHT+IEShF7JNUAQXqgw1bbg8UYDlE7SbOO8JHATpyPQetvsfWWj15mfN1L0PYiLDzKcQqo96nBTAI+V/7s=
+X-Received: by 2002:a0c:db0a:0:b0:647:3083:4575 with SMTP id d10-20020a0cdb0a000000b0064730834575mr5052003qvk.57.1693658031251;
+        Sat, 02 Sep 2023 05:33:51 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 17.57.155.28 is neither permitted nor denied by best guess record for domain of postmaster@smtpclient.apple) smtp.mailfrom=smtpclient.apple;
+       dkim=pass header.i=@tooters.org header.s=sig1 header.b=EHKmGZwZ
+Received-SPF: neutral (google.com: 17.57.155.28 is neither permitted nor denied by best guess record for domain of postmaster@smtpclient.apple) client-ip=17.57.155.28;
+Received: by 2002:a0c:e34f:0:b0:64f:4619:708d with POP3 id a15-20020a0ce34f000000b0064f4619708dmf1710265qvm.12;
+        Sat, 02 Sep 2023 05:33:50 -0700 (PDT)
+X-Gmail-Fetch-Info: admin@mastodon.art 1 webhost.dynadot.com 995 admin@mastodon.art
+Received: from 17.57.155.4 by webhost.dynadot.com with SMTP; 2 Sep 2023 11:31:38 +0000
+Received-SPF: pass (spfCheck: domain of tooters.org designates 17.57.155.4 as permitted sender) client-ip=17.57.155.4; envelope-from=victor@tooters.org; helo=;
+Authentication-Results: webhost.dynadot.com; dkim=pass (identity @tooters.org); spf=pass
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=tooters.org; s=sig1; t=1693654296; bh=boecZSbc3TsgvGFtcRy06ihFKKDaiESCEWbd1U0zHkM=; h=Content-Type:From:Mime-Version:Date:Subject:Message-Id:To; b=EHKmGZwZKvduVHjo2KOM0M8hqpjB6LP+bJy2Qt7FhD0RltIDlCnupHZIbwrjB28wf
+	 0vXtdIYNd0dkdZ9ofYJA6RH5ZFwYnJ9Lqi4+GNEzG/+30OVn0M2YL1zWnYuo7TRDKN
+	 oDNNyv+Yc5m+C2lfqepNcz4MghnDax0IRdSAzuTK8BQ9JM7KW/u81yVDvitLJJDflu
+	 dbWhNRVOFKseZAijXLmNnWSircTUGXUv28NND03C4mDgSR40gmPvJG1R7tx7NNl8ty
+	 +tfoMvEIkWc9YkxzQSkJubodzopgJqwecN77VtpsyCyMATxraZy86TDU6Z20iXpVID
+	 ja4v+gbZdf6/g==
+Received: from smtpclient.apple (qs51p00im-dlb-asmtp-mailmevip.me.com [17.57.155.28]) by qs51p00im-qukt01071501.me.com (Postfix) with ESMTPSA id 7B1381C4022A for <admin@mastodon.art>; Sat,
+  2 Sep 2023 11:31:35 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=Apple-Mail-E7E80DDD-FCD4-4D57-8961-DF19FA8311FD
+Content-Transfer-Encoding: 7bit
+From: Victor Wynne <victor@tooters.org>
+Mime-Version: 1.0 (1.0)
+Date: Sat, 2 Sep 2023 07:31:04 -0400
+Subject: 😚
+Message-Id: <26D3C429-6A80-415F-860B-B758EB62492C@tooters.org>
+To: admin@mastodon.art
+X-Mailer: iPhone Mail (21A5326a)
+
+--Apple-Mail-E7E80DDD-FCD4-4D57-8961-DF19FA8311FD
+Content-Type: multipart/related; type="text/html"; boundary=Apple-Mail-22D47463-F513-4ADD-9967-10C531B0CA76
+Content-Transfer-Encoding: 7bit
+
+--Apple-Mail-22D47463-F513-4ADD-9967-10C531B0CA76
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=
+=3Dutf-8"></head><body dir=3D"auto">Not sure why you wasted time setting to=
+oters to followers only on .art this morning when we defederated your lying=
+ ass yesterday =F0=9F=A4=AD=E2=80=A6oh, and rage.love has been defederated =
+for months so that was cute, but a waste of time too.<div><br></div><div>In=
+ all seriousness, you should go get help for whatever abuse, or trauma you =
+experienced that you=E2=80=99re choosing to take out on others in an unheal=
+thy way because you are a terrible person. I=E2=80=99m glad to have learned=
+ that when I did.</div><div><br></div><div>- Victor&nbsp;</div><div><div><d=
+iv><div dir=3D"ltr"></div><div dir=3D"ltr"></div><div><br></div><div><div s=
+tyle=3D"display: block;" class=3D""><div style=3D"-webkit-user-select: all;=
+ -webkit-user-drag: element; display: inline-block;" class=3D"apple-rich-li=
+nk" draggable=3D"true" role=3D"link" data-url=3D"https://tooters.org/@victo=
+r/110993081670641854"><a style=3D"border-radius:10px;font-family:-apple-sys=
+tem, Helvetica, Arial, sans-serif;display:block;-webkit-user-select:none;wi=
+dth:300px;user-select:none;-webkit-user-modify:read-only;user-modify:read-o=
+nly;overflow:hidden;text-decoration:none;" class=3D"lp-rich-link" rel=3D"no=
+follow" href=3D"https://tooters.org/@victor/110993081670641854" dir=3D"ltr"=
+ role=3D"button" draggable=3D"false" width=3D"300"><table style=3D"table-la=
+yout:fixed;border-collapse:collapse;width:300px;background-color:#E9E9EB;fo=
+nt-family:-apple-system, Helvetica, Arial, sans-serif;" class=3D"lp-rich-li=
+nk-emailBaseTable" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"300"><tbody><tr><td vertical-align=3D"center"><div style=3D"margin:10px=
+ 16px 0px 16px;color:#000000;font-weight:300;text-align:left;width:268px;fo=
+nt-size:11pt;word-wrap:break-word;overflow:hidden;" class=3D"lp-rich-link-q=
+uotedText">Two days ago #Tooters suspended the account `welshpixie@mastodon=
+.art` for breaking community rule 10.
+
+Since then @sandy, and I have been discussing whether we even have enough f=
+aith in .art=E2=80=99s admin to fairly, honestly, and professionally handle=
+ any future moderation reports that may arise between our instances.
+
+The answer we have come to is no. Trying to build a safe space for communit=
+y members means proactively separating it from harmful behavior like hers, =
+so we have now defederated.</div></td></tr><tr><td vertical-align=3D"center=
+"><table bgcolor=3D"#E9E9EB" cellpadding=3D"0" cellspacing=3D"0" width=3D"3=
+00" style=3D"font-family:-apple-system, Helvetica, Arial, sans-serif;table-=
+layout:fixed;background-color:rgba(233, 233, 235, 1);" class=3D"lp-rich-lin=
+k-captionBar"><tbody><tr><td style=3D"padding:6px 0px 6px 16px;" class=3D"l=
+p-rich-link-captionBar-leftIconItem" width=3D"25"><a rel=3D"nofollow" href=
+=3D"https://tooters.org/@victor/110993081670641854" draggable=3D"false"><im=
+g style=3D"pointer-events:none !important;display:inline-block;width:25px;h=
+eight:25px;border-radius:3px;" width=3D"25" height=3D"25" draggable=3D"fals=
+e" class=3D"lp-rich-link-captionBar-leftIcon" alt=3D"apple-touch-icon-1024x=
+1024-db6849588b44f525363c37b65ef0ac66.png" src=3D"cid:02C4BA89-8AC8-471D-81=
+AC-9E344BE4C625"></a></td><td style=3D"padding:8px 0px 8px 0px;" class=3D"l=
+p-rich-link-captionBar-textStackItem"><div style=3D"max-width:100%;margin:0=
+px 16px 0px 10px;overflow:hidden;" class=3D"lp-rich-link-captionBar-textSta=
+ck"><div style=3D"word-wrap:break-word;font-weight:500;font-size:12px;overf=
+low:hidden;text-overflow:ellipsis;text-align:left;" class=3D"lp-rich-link-c=
+aptionBar-textStack-topCaption-leading"><a rel=3D"nofollow" href=3D"https:/=
+/tooters.org/@victor/110993081670641854" style=3D"text-decoration: none" dr=
+aggable=3D"false"><font color=3D"#000000" style=3D"color: rgba(0, 0, 0, 1);=
+">Victor Wynne :tooters: (@victor@tooters.org)</font></a></div><div style=
+=3D"word-wrap:break-word;font-weight:400;font-size:11px;overflow:hidden;tex=
+t-overflow:ellipsis;text-align:left;" class=3D"lp-rich-link-captionBar-text=
+Stack-bottomCaption-leading"><a rel=3D"nofollow" href=3D"https://tooters.or=
+g/@victor/110993081670641854" style=3D"text-decoration: none" draggable=3D"=
+false"><font color=3D"#A2A2A9" style=3D"color: rgba(60, 60, 67, 0.6);">toot=
+ers.org</font></a></div></div></td></tr></tbody></table></td></tr></tbody><=
+/table></a></div><br></div></div></div></div></div></body></html>
+--Apple-Mail-22D47463-F513-4ADD-9967-10C531B0CA76
+Content-Type: image/png; name=apple-touch-icon-1024x1024-db6849588b44f525363c37b65ef0ac66.png; x-apple-part-url=02C4BA89-8AC8-471D-81AC-9E344BE4C625
+Content-Disposition: inline; filename=apple-touch-icon-1024x1024-db6849588b44f525363c37b65ef0ac66.png
+Content-Transfer-Encoding: base64
+Content-Id: <02C4BA89-8AC8-471D-81AC-9E344BE4C625>
+
+
+--Apple-Mail-22D47463-F513-4ADD-9967-10C531B0CA76--
+--Apple-Mail-E7E80DDD-FCD4-4D57-8961-DF19FA8311FD--
